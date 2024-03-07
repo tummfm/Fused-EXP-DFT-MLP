@@ -1,0 +1,16 @@
+blackjax==0.3.0
+chex
+cloudpickle
+coax<=0.1.9
+dm-haiku>=0.0.4
+jax-md>=0.1.13
+jax>=0.2.12
+jaxlib>=0.1.65
+jaxopt
+optax>=0.0.6
+sympy>=1.8
+tree_math
+
+[all]
+matplotlib
+mdtraj<=1.9.6

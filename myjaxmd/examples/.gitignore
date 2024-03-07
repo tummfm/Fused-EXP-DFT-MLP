@@ -1,0 +1,17 @@
+ElasticConstantFromPaper/*.npy
+ElasticConstantFromPaper/*.csv
+data/Ti_supercell_data/*
+output/difftre/*
+output/force_matching/*
+output/figures/*.png
+output/figures/*.npy
+PotentialPlots/*
+data/.DS_Store
+.DS_Store
+data/TransferLearning/*
+data/stiffnessData/*
+postprocess_plots/*
+postprocess_plots_ColumnBoxes/*
+saved_titanium_stiffness/*
+../.DS_Store
+../.idea/
